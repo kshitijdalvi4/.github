@@ -25,10 +25,10 @@ mindset to empower the future by technology. AI Club provides a
 platform to students to develop their skills in a community where
 each member is highly motivated towards their work and help each
 other to grow together continuously. The club is working under the
-guidance of <ins> **Dr. AVR Mayuri**</ins> and <ins>**Dr. Suthir S**</ins> who are the coordinators of the club and have worked on many projects and their
+guidance of <ins> **Dr. Ajeet Singh**</ins>  having worked on a plethora of  projects and their
 research papers have been published in multiple publications. 
 
-The club is **led by <ins>Rahul Mandviya</ins> and <ins>Om Rajani</ins>** with various
+The club is **led by <ins>Punit Kaushik</ins> and <ins>Anushka Singh</ins>** with various
 technical and non-technical leads and their teams who look after
 the smooth functioning of the club. The club has organised various
 national competitions and has motivated thousands of students to

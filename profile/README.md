@@ -53,13 +53,13 @@ of a great community of learners.
   >
 </p>
 
-## <p align="center"><ins>**ABOUT THE COMMUNITY PROJECT**</ins></p>
+## <p align="left"><ins>**ABOUT THE COMMUNITY PROJECT**</ins></p>
 
 <p align="center">
   <img
        height="332.8"
        width="1157.66"
-       src="https://user-images.githubusercontent.com/97673859/178155230-ec2eb838-bb41-45cd-bb2f-11ce6b59f535.png"
+       
        >
 </p>
 
